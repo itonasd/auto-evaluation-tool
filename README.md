@@ -1,20 +1,5 @@
-/*  --------------------- AUTOMATIC CKK EVALUATION TOOL ----------------------    
-;   
-;   
-    ==========================================================================  
-                          INSERT YOUR INFORMATION BELOW                         
-    ========================================================================== */   
-  
-    const schoolID  = "39xxx"           // school ID card (5 digits)  
-    const citizenID = "15xxxxxxxxxxx"   // citizen ID card (13 digits)  
-    const type      = "teacher"         // teacher | sdq | atitude  
-    const delay     = 500               // depends on internet connection (ms)  
-            
-/*  ==========================================================================  
-                               BUILT BY AomIsReal                              
-    ==========================================================================  
-;   
-;   
+; AUTOMATIC CKK EVALUATION TOOL    
+;    
 ; HOW TO EXECUTE (STEP BY STEP GUIDE)   
 ;   1. Open powershell  
 ;   2. Type: `winget install --id Git.Git -e --source winget`  
@@ -43,14 +28,5 @@
 ;   
 ;   
 ; android and ios are not supported  
-; this project was developed in just 2 days  
-/////////////////////////////////////////////////////////////////////////////////////////////////////////////////// */   
-
-
-
-
-; 
-; 
-; android and ios are not supported
-; this project was developed in just 2 days
-/////////////////////////////////////////////////////////////////////////////////////////////////////////////////// */ 
+; this project was developed in just 2 days     
+            
