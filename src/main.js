@@ -5,8 +5,8 @@
                           INSERT YOUR INFORMATION BELOW                       
     ========================================================================== */ 
 
-    const schoolID  = "39350"           // school ID card (5 digits)
-    const citizenID = "1509966678267"   // citizen ID card (13 digits)
+    const schoolID  = "39xxx"           // school ID card (5 digits)
+    const citizenID = "15xxxxxxxxxxx"   // citizen ID card (13 digits)
     const type      = "sdq"             // teacher | sdq | atitude
     const delay     = 500               // depends on internet connection (ms)
           
