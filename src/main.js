@@ -7,7 +7,7 @@
 
     const schoolID  = "39xxx"           // school ID card (5 digits)
     const citizenID = "15xxxxxxxxxxx"   // citizen ID card (13 digits)
-    const type      = "teacher"         // teacher | sdq | atitude
+    const type      = "teacher"         // teacher | sdq | apitude
     const delay     = 500               // depends on internet connection (ms)
           
 /*  ==========================================================================
